@@ -13,3 +13,5 @@ Token Entanglement: https://colab.research.google.com/drive/1lPBaTmsei6j7JKOEC7H
 Base TSNE Plot: https://colab.research.google.com/drive/1R3YeiPYzfBmC4vRTcEioKIbI3i0Glx1n?usp=sharing
 
 Fine-Tuned TSNE Plot: https://colab.research.google.com/drive/1ufj4Zm0g9KLPIoDwZiJ0fTloIGI10hPB?usp=sharing
+
+Fine-Tuning on Llama3.2 1B: https://colab.research.google.com/drive/1YAFVhS2X2_Ux0-qYlWP4HkEvspV_HhAf?usp=sharing
