@@ -5,3 +5,11 @@ Assignment 1:
 Link to the PEFT implementation for Cat Preference : https://colab.research.google.com/drive/1QiHOiRAsm1q-dTt73lWd6NpAPvRQSwog?usp=sharing
 
 Link to Full Weights Implementation for Cat Preference : https://colab.research.google.com/drive/1h2IWboYqd2PlbxuKourfKrhllbbMTcNG?usp=sharing
+
+Assignment 2:
+
+Token Entanglement: https://colab.research.google.com/drive/1lPBaTmsei6j7JKOEC7HbVILan0rIjUhC?usp=sharing
+
+Base TSNE Plot: https://colab.research.google.com/drive/1R3YeiPYzfBmC4vRTcEioKIbI3i0Glx1n?usp=sharing
+
+Fine-Tuned TSNE Plot: https://colab.research.google.com/drive/1ufj4Zm0g9KLPIoDwZiJ0fTloIGI10hPB?usp=sharing
