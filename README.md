@@ -15,3 +15,7 @@ Base TSNE Plot: https://colab.research.google.com/drive/1R3YeiPYzfBmC4vRTcEioKIb
 Fine-Tuned TSNE Plot: https://colab.research.google.com/drive/1ufj4Zm0g9KLPIoDwZiJ0fTloIGI10hPB?usp=sharing
 
 Fine-Tuning on Llama3.2 1B: https://colab.research.google.com/drive/1YAFVhS2X2_Ux0-qYlWP4HkEvspV_HhAf?usp=sharing
+
+Assignment 3:
+
+Mechanistic inspection of hidden vector state: https://colab.research.google.com/drive/18-xUw1LVQSMNWrnlL_odfBB0vnGjBXk8?usp=sharing, https://colab.research.google.com/drive/1OXUirX4jEMlV5lF_GU3kO03PSdq5MQ30?usp=sharing
