@@ -19,3 +19,6 @@ Fine-Tuning on Llama3.2 1B: https://colab.research.google.com/drive/1YAFVhS2X2_U
 Assignment 3:
 
 Mechanistic inspection of hidden vector state: https://colab.research.google.com/drive/18-xUw1LVQSMNWrnlL_odfBB0vnGjBXk8?usp=sharing, https://colab.research.google.com/drive/1OXUirX4jEMlV5lF_GU3kO03PSdq5MQ30?usp=sharing
+
+## 🔗 Demo Link
+[Click here to view the live demo](https://ushasree-3.github.io/NLP_Webapp/)
